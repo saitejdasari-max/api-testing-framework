@@ -1,0 +1,9 @@
+# configs/dev.yaml
+# Optional per-environment overrides. Values here supersede .env for the dev env.
+# Leave empty to rely entirely on .env / environment variables.
+
+# Example overrides:
+# environment:
+#   timeout: 45
+# retry:
+#   max_retries: 5

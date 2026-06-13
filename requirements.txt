@@ -1,0 +1,34 @@
+# Core HTTP & testing
+pytest>=7.4.0
+pytest-xdist>=3.3.0        # parallel execution: -n auto
+pytest-html>=4.0.0          # HTML reports
+pytest-rerunfailures>=12.0  # retry flaky tests
+pytest-order>=1.1.0         # test ordering
+
+# HTTP client
+requests>=2.31.0
+
+# Data validation
+pydantic>=2.0.0
+
+# Environment config
+python-dotenv>=1.0.0
+
+# Reporting
+allure-pytest>=2.13.0
+
+# Schema & data generation
+jsonschema>=4.22.0
+faker>=19.0.0
+
+# Config parsing
+PyYAML>=6.0
+
+# Logging
+colorlog>=6.7.0
+
+# Retry mechanism
+tenacity>=8.2.0
+
+# HTTP utilities
+urllib3>=2.0.0
