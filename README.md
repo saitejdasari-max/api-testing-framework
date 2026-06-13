@@ -1,4 +1,4 @@
-# 🚀 Enterprise API Testing Framework
+# Enterprise API Testing Framework
 
 A **production-grade API test automation framework** built with Python, pytest, and Allure — designed for scale, maintainability, and CI/CD integration.
 
